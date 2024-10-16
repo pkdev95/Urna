@@ -1,2 +1,2 @@
 # Urna
-Uma urna eletrônica onde existem 3 candidatos disponíveis, desenvolvida em React.js
+Uma urna eletrônica onde existem 3 candidatos disponíveis, desenvolvida em react.js
