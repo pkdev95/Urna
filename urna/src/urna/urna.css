@@ -1,0 +1,89 @@
+.princ{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    height: 30em;
+    width:55em;
+    margin: 8% auto; 
+}
+
+
+.displayUrna{
+    border: 3px solid black;
+    height: 29.8em;
+    width:60%;
+
+}
+
+.bb{
+    background-color: green;
+}
+
+.vv{
+
+    background-color: red;
+
+}
+
+button{
+    font-size: 19px;
+}
+
+.tecladoUrna{
+    width: 34%;
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 18px auto;
+}
+
+
+.urna{
+    display: flex;
+    width:100%;
+    
+}
+
+.dsp{
+
+    border: 3px solid black;
+    height: 90%;
+    width: 85%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90%;
+    background-color: white;
+    width:85%;
+    height: 10%;
+    margin: 9% auto;
+    gap: 0.5em;
+}
+
+.jj{
+    color: white;
+}
+
+
+.numb{
+    margin-top: 0.2em;
+    font-size: 3em;
+}
+
+
+.one{
+    width:5em;
+    height:5em;
+    border: 2px solid black;
+    margin-top: -15%;
+    
+}
+
+
+
