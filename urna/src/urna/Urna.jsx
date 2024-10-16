@@ -2,7 +2,7 @@ import "./urna.css";
 import { useState } from "react";
 import Swal from 'sweetalert2'
 import { Card } from "../card/Card";
-import { Apurador } from "../apurador/apurador";
+
 
 
 
@@ -161,11 +161,6 @@ export const Urna = () => {
     ];
 
     return (<>
-            <Apurador counts={{
-            count1: countC,
-            count2: countD,
-            count3: countP
-        }} />
         <div className="princ">
             <div className="urna">
                 <div className="displayUrna">
