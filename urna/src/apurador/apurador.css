@@ -1,9 +1,9 @@
 .header{
     position: fixed;
-    left: 45%;
-    bottom:90%
+    right: -3%;
+    width: 100%;
+    margin:0  auto;
+    bottom:96%;
+
 }
 
-.rst{
- text-align: center;
-}
