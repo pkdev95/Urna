@@ -18,3 +18,21 @@ img{
     margin-top: 40%;
     
 }
+
+
+@media screen and (max-width: 768px){
+ 
+    .al{
+        height: 100%;
+        width: 100%;
+    }
+  
+    .imgg{
+        width:95px;
+        height:95px;
+    }
+    .init{
+      padding-bottom: -5em;
+    }
+
+}

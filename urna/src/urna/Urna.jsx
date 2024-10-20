@@ -160,10 +160,10 @@ export const Urna = () => {
 
     ];
 
-    return (<>
+    return (<div className="pri">
       
         <div className="princ">
-        <Apurador counts={{
+        <Apurador className="lo" counts={{
             count1: countC,
             count2: countD,
             count3: countP
@@ -187,7 +187,7 @@ export const Urna = () => {
                 </div>
             </div>
         </div>
-    </>
+    </div>
     )
 
 
