@@ -18,7 +18,7 @@ const candidatos = [
     {
         id:2,
         nome:"Patrick",
-        img: "https://scontent.fgig19-1.fna.fbcdn.net/v/t39.30808-1/343820211_1397331501025558_7858092204189318366_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeEsaqVP7PHDvPS9eHPtZnHhufbM9D2hCzm59sz0PaELOaUsLtQ4WqvON-TWDzXTLgj8t3xzNZ8Oba7B-x4hqMQ5&_nc_ohc=AEevaJbUqEsQ7kNvgGX5sq8&_nc_ht=scontent.fgig19-1.fna&_nc_gid=APSweLjLUGNKqIJtVMhTiQ_&oh=00_AYBfC6_0NJVmiDvQxkFovvsG58z4RjbMI-JoVkZCythAHg&oe=67117563",
+        img:"https://scontent.fgig19-1.fna.fbcdn.net/v/t39.30808-1/343820211_1397331501025558_7858092204189318366_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeEsaqVP7PHDvPS9eHPtZnHhufbM9D2hCzm59sz0PaELOaUsLtQ4WqvON-TWDzXTLgj8t3xzNZ8Oba7B-x4hqMQ5&_nc_ohc=6tPDXeyJYmcQ7kNvgGzwPAE&_nc_zt=24&_nc_ht=scontent.fgig19-1.fna&_nc_gid=AgOGQ9WCgWVHQrl_r4ICraz&oh=00_AYAswf683IoIfx13DPRR9hpC_U355d5It_zm7YzIYe5-ew&oe=671A3F63",
         profissao: "programador",
         framework: "Vue",
         numero: 47
