@@ -8,7 +8,7 @@ const candidatos = [
     {
         id: 1,
         nome:"Christyan",
-        img: "https://scontent.fsdu4-1.fna.fbcdn.net/v/t39.30808-6/458763423_7711345652304231_3438180508623730582_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5bbf69&_nc_eui2=AeFsq2qoQlycNOzYKjlMVUpaljWuhd7SjkyWNa6F3tKOTN_UV93P5C2PXInZQDf_lVKq2FlbYsnHNu5INXRHip3w&_nc_ohc=g-wSwV4xAg8Q7kNvgH-XTLa&_nc_zt=23&_nc_ht=scontent.fsdu4-1.fna&_nc_gid=A3fdyFy4Y860QrYfcaH6iwr&oh=00_AYDp21zEeGd82Fsk5wKvH5F9Pd_QNQP9tt1lCVQ__icvZQ&oe=67116742",
+        img: "https://scontent.fgig19-1.fna.fbcdn.net/v/t31.18172-8/26677815_1363337067105153_5535942573155050957_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeEh-bP9iJwn_7z8TYkfL6ixCHbvlM6LhxUIdu-UzouHFV6lxGhkPWc7895KiMM5jaC0ZIJ4zTavcmxoCrlUJbEA&_nc_ohc=lthuGIGexzgQ7kNvgF6ym1O&_nc_zt=23&_nc_ht=scontent.fgig19-1.fna&_nc_gid=AP9WBsuM2twl_euiIwmsy1r&oh=00_AYCexpO_Grlim-8ax5xrvn5uHd1Coe0zKBmeTnJ4mtpy9Q&oe=673BF37B",
         profissao: "programador",
         framework: "React.js",
         numero: 44
